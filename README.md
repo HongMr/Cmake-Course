@@ -4,6 +4,9 @@ Learn about CMake
 CMake学习网址：
 https://zhuanlan.zhihu.com/p/534439206
 
+学习github网站:
+https://github.com/wzpan/cmake-demo/tree/master
+
 1.FastGithub（Windows下超推荐）能够稳定访问github,但是有可能跟其他有冲突，不使用时需要关闭
 
 https://github.com/dotnetcore/FastGithub
